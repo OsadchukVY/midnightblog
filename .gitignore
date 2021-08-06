@@ -35,6 +35,7 @@ sdist/
 var/
 wheels/
 *.egg-info/
+boysvenv
 .installed.cfg
 *.egg
 MANIFEST
